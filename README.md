@@ -6,12 +6,12 @@ By profession, I'm an IoT solution Architect having the intellect to deliver the
 
 Skills: Embedded C | C++ | Python | Wireless | IoT Product Engineering  
 
-- 🔭 I’m currently working on IoT Smart city solution & Health care  
-- 🌱 I’m currently learning TinyML | Linux kernel | Device driver  
-- 👯 I’m looking to collaborate on OpenSource community  
-- 💬 Ask me about RTOS | Device driver | IoT Product Engineering  
+- 🔭 I’m currently working on **IoT Smart city solution & Health care**  
+- 🌱 I’m currently learning **TinyML | Linux kernel | Device driver**  
+- 👯 I’m looking to collaborate on **OpenSource community**  
+- 💬 Ask me about **RTOS | Device driver | IoT Product Engineering**  
 - 📫 How to reach me: mahendrasondagar08@gmail.com 
-- ⚡ Fun fact: Eat -> Sleep -> Code -> Repeat  
+- ⚡ Fun fact: **Eat -> Sleep -> Code -> Repeat**  
 
 
 ### 🤝🏻 &nbsp;Connect with Me
