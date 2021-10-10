@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Mahendra
+#### I'm an IoT solution Architect and Firmware coder by heart 
+![I'm an IoT solution Architect and Firmware coder by heart ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**MahendraSondagar/MahendraSondagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By profession, I'm an IoT solution Architect having the intellect to deliver the End to End product engineering solution from scratch to market 
 
-Here are some ideas to get you started:
+Skills: Embedded C / C++ / Python / Wireless / IoT Product Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on IoT Smart city solution & Health care  
+- 🌱 I’m currently learning TinyML | Linux kernel | Device driver  
+- 👯 I’m looking to collaborate on OpenSource community  
+- 💬 Ask me about RTOS | Device driver | IoT Product Engineering  
+- 📫 How to reach me: mahendrasondagar08@gmail.com 
+- ⚡ Fun fact: Eat -> Sleep -> Code -> Repeat  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahendraSondagar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahendra-sondagar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mahendra.sondagar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahendrasondagar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mahendra_017)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraSondagar)](https://github.com/anuraghazra/github-readme-stats)
+
