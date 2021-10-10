@@ -4,7 +4,7 @@
 
 By profession, I'm an IoT solution Architect having the intellect to deliver the End to End Product engineering solution from scratch to market 
 
-Skills: Embedded C / C++ / Python / Wireless / IoT Product Engineering  
+Skills: Embedded C | C++ | Python | Wireless | IoT Product Engineering  
 
 - 🔭 I’m currently working on IoT Smart city solution & Health care  
 - 🌱 I’m currently learning TinyML | Linux kernel | Device driver  
