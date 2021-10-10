@@ -22,3 +22,6 @@ Skills: Embedded C | C++ | Python | Wireless | IoT Product Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraSondagar)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app
+
