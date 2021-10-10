@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mahendra
 #### I'm an IoT solution Architect (:satellite:) & Firmware coder by :heart:
-![I'm an IoT solution Architect and Firmware coder by heart ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm an IoT solution Architect and Firmware coder by heart ]
 
 By profession, I'm an IoT solution Architect having the intellect to deliver the End to End Product engineering solution from scratch to market 
 
