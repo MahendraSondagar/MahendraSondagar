@@ -2,7 +2,9 @@
 #### I'm an IoT solution Architect (:satellite:) & Firmware developer by :heart:
 ![I'm an IoT solution Architect and Firmware coder by heart ]
 
-By profession, I'm an IoT solution Architect having the intellect to deliver the End to End Product engineering solution from scratch to market 
+By profession, I'm an IoT solution Architect (:satellite:) having the intellect to deliver the End to End Product engineering solution (:pager:) from scratch to market(:chart_with_upwards_trend:). I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
 Skills: Embedded C | C++ | Python | Wireless | IoT Product Engineering  
 
